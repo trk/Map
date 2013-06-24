@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sql>
+	<name>Map Module Database Creation</name>
+	<version>1.0</version>
+	<license>Open Source MIT license</license>
+
+	<tables></tables>
+
+</sql>
